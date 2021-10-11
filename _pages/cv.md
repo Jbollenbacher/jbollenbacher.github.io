@@ -69,7 +69,7 @@ Skills
   * Git fluency.
   
 * Modeling and Simulation
-  * Focus especially on [complex systems](https://cssociety.org/about-us/what-are-cs) and network systems, e.g. social systems, ecological systems, economic networks.
+  * Focus especially on [complex systems](https://complexityexplained.github.io/) and network systems, e.g. social systems, ecological systems, economic networks.
   * Agent based models, Bayesian models, machine learning models, point process models.
   * Large scale simulation and HPC
   * Model validation
