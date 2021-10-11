@@ -26,9 +26,7 @@ Work experience
   
 * 2021-present, 2017-2019: Research Assistant
   * Indiana University
-  * Duties included: 
-   * Modeling and simulating online social systems to forecast user activity, spread of information, and market manipulation.
-   * Analyzing social media data and UK Parliamentary data
+  * Duties included: Modeling and simulating online social systems to forecast user activity, spread of information, and market manipulation (2017-2019). Analyzing social media data and UK Parliamentary data (2021-Present).
   * Supervisors: [Fil Menczer](http://cnets.indiana.edu/fil/) 2017-2019, [John Bryden](http://jbryden.co.uk/home/) 2021-Present
   
 * Summer 2014, Summer 2015: Radiological Surveyer and CAD Technician
