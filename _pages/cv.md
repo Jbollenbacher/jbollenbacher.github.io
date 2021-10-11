@@ -19,14 +19,15 @@ Work experience
 ======
 * 2021-present: Data Scientist
   * [GeniusMesh](https://www.geniusmesh.com/)
+  * Duties included: Data science, NLP, recommender systems. Working with development team to deploy a client-facing dashboard to production.
 
 * 2019-present, 2016-2017: Assistant Instructor
   * Indiana University. See Teaching Experience section below
   
-* 2017-2019: Research Assistant
+* 2021-present, 2017-2019: Research Assistant
   * Indiana University
   * Duties included: Modeling and simulating online social systems to forecast user activity, spread of information, and market manipulation
-  * Supervisor: [Fil Menczer](http://cnets.indiana.edu/fil/)
+  * Supervisor: [Fil Menczer](http://cnets.indiana.edu/fil/), [John Bryden](http://jbryden.co.uk/home/)
   
 * Summer 2014, Summer 2015: Radiological Surveyer and CAD Technician
   * USA Environment LP
@@ -37,17 +38,20 @@ Ongoing Research
 * Measuring memetic impacts of interacting with social media content
   * Measuring changes in topical attention (using spacy models)
   * Measuring changes in sentiment toward topics (using transformer models)
-  * Measuring changes in beliefs about topics (using relation extraction and transformer models)
-  * Measuring memetic impacts of interacting with suspicious content (e.g. bots, misinformation, coordinated campaigns)
   * Processing a ~20TB json.gz dataset of twitter data
 * COVID vaccine hesitancy
   * Collecting social media data on covid vaccine hesitancy
   * Analyzing its relationship to public health behaviors and outcomes
+  * Classifying tweets as Antivax or not, examining relationship between antivax content and vaccine uptake in the USA
+* UK Parliament and Social Media
+  * Analyzing Facebook, Twitter, New Media, and UK Parliementary speeches data.  
+  * Measuring impacts of media sources on UK Parliamentary discourse
   
 Skills
 ======
 * Data Science and Machine Learning
   * Python fluency. pandas, scikit-learn, spacy, etc.
+  * Big Data, Databricks ecosystem. Spark, Koalas, Delta Lake.
   * Classical machine learning. Clustering, classification, regression, collaborative filtering, anomaly detection, feature engineering, etc.
   * Natural Language Processing (NLP). Text cleaning, NER and keyword extraction, targeted sentiment analysis, text classification and embedding, etc.
   * Deep learning. PyTorch, HuggingFace Transformers. Mainly NLP, some experience in vision. 
@@ -55,11 +59,12 @@ Skills
   * Network science. Community detection, diffusion modeling, graph characterization, etc.
   * Signal processing. Denoising, source separation.
   * Time Series. ARMAX, VAR, and related models. 
-  * Point process models, e.g. Hawkes models.
+  * Point process models, Granger causality on Hawkes processes.
   * Model selection and model validation, Feature abalation studies.
-  * Data visualization. Seaborn, matplotlib, Atlair.
+  * Data visualization. Seaborn, matplotlib, Atlair, plotly.
   * High Performance Computing (HPC) for data science and simulation. 
   * Matlab, Mathematica, R. Non-expert, but some experience.
+  * SQL, MongoDB, Neo4j
   * Unix systems, bash, etc. 
   * Git fluency.
   
