@@ -60,7 +60,8 @@ Skills
   * Network science. Community detection, diffusion modeling, graph characterization, etc.
   * Signal processing. Denoising, source separation.
   * Time Series. ARMAX, VAR, and related models. 
-  * Point process models, Granger causality on Hawkes processes.
+  * Point process models. Hawkes processes, etc.
+  * Causal inference. Granger causal modeling for time series and point processes.
   * Geospatial data science. Spatial regression, clustering, etc.
   * Model selection and model validation, Feature abalation studies.
   * Data visualization. Seaborn, matplotlib, Atlair, plotly.
