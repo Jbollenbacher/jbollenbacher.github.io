@@ -51,7 +51,7 @@ Skills
 ======
 * Data Science and Machine Learning
   * Python fluency. pandas, scikit-learn, spacy, etc.
-  * Big Data, Databricks ecosystem. Spark, Koalas, Delta Lake.
+  * Big Data. pySpark, Koalas.
   * Classical machine learning. Clustering, classification, regression, collaborative filtering, anomaly detection, feature engineering, etc.
   * Natural Language Processing (NLP). Text cleaning, NER and keyword extraction, targeted sentiment analysis, text classification and embedding, etc. Efficient text labeling with Prodigy. 
   * Deep learning. PyTorch, HuggingFace Transformers. Mainly NLP, some experience in vision. 
