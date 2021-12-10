@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2021-present: Data Scientist
+* 2021: Data Scientist
   * [GeniusMesh](https://www.geniusmesh.com/)
   * Duties included: Data science, NLP, recommender systems. Working with development team to deploy a client-facing dashboard to production.
 
