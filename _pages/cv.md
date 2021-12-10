@@ -61,6 +61,7 @@ Skills
   * Signal processing. Denoising, source separation.
   * Time Series. ARMAX, VAR, and related models. 
   * Point process models, Granger causality on Hawkes processes.
+  * Geospatial data science. Spatial regression, clustering, etc.
   * Model selection and model validation, Feature abalation studies.
   * Data visualization. Seaborn, matplotlib, Atlair, plotly.
   * High Performance Computing (HPC) for data science and simulation. 
