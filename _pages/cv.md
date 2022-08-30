@@ -15,7 +15,6 @@ See resume and CV below, or click links to download PDFs.
 
 <object data="https://jbollenbacher.github.io/files/Resume.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://jbollenbacher.github.io/files/Resume.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://jbollenbacher.github.io/files/Resume.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -24,7 +23,6 @@ See resume and CV below, or click links to download PDFs.
 
 <object data="https://jbollenbacher.github.io/files/CV.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://jbollenbacher.github.io/files/CV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://jbollenbacher.github.io/files/CV.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
