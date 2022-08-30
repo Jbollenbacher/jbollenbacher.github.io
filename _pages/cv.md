@@ -19,7 +19,7 @@ See resume and CV below, or click links to download PDFs.
 </object>
 
 
-<a href="https://jbollenbacher.github.io/files/Resume.pdf">CV</a>
+<a href="https://jbollenbacher.github.io/files/CV.pdf">CV</a>
 
 <object data="https://jbollenbacher.github.io/files/CV.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://jbollenbacher.github.io/files/CV.pdf">
