@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Resume
+See resume and CV below, or click links to download. Last updated Spring 2022.
+
+<a href="https://jbollenbacher.github.io/files/Resume.pdf">Resume PDF</a>
 
 <object data="https://jbollenbacher.github.io/files/Resume.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://jbollenbacher.github.io/files/Resume.pdf">
@@ -18,7 +20,7 @@ Resume
 </object>
 
 
-CV
+<a href="https://jbollenbacher.github.io/files/Resume.pdf">CV PDF</a>
 
 <object data="https://jbollenbacher.github.io/files/CV.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://jbollenbacher.github.io/files/CV.pdf">
