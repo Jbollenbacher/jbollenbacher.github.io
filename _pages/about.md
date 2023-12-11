@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a Research Data Scientist at the [Research Triangle Institute (RTI)](rti.org)'s [Center for Data Science and AI](https://www.rti.org/centers/rti-center-data-science).
+Hello! I'm a [Research Data Scientist](https://www.rti.org/expert/john-bollenbacher) at the [Research Triangle Institute (RTI)](rti.org)'s [Center for Data Science and AI](https://www.rti.org/centers/rti-center-data-science).
 
 At RTI I collaborate with subject matter experts in public health, environmental science, and other domains to design and conduct quantitative research. Methodologically, I primarily do data science and statistics work, specializing in causal inference, natural language processing, and the use of generative AI for task automation. 
 
