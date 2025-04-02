@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a [Research Data Scientist](https://www.rti.org/expert/john-bollenbacher) at the [Research Triangle Institute (RTI)](https://www.rti.org/)'s [Center for Data Science and AI](https://www.rti.org/centers/rti-center-data-science). My background is in computational social science and physics. 
+Hello! I'm a [Research Data Scientist](https://www.rti.org/expert/john-bollenbacher) at the [Research Triangle Institute (RTI)](https://www.rti.org/)'s [Center for Data Science and AI](https://www.rti.org/centers/rti-center-data-science). My background is originally in physics and computational social science, and more recently in AI.
 
 At RTI I collaborate with subject matter experts in public health, environmental science, and other domains to design and conduct quantitative research and help accelerate qualitative research through AI automation. Methodologically, I primarily do data science and statistics work, specializing in causal inference, natural language processing, and the use of generative AI for task automation. I also co-author proposals and win multimillion dollar contracts and grants.
 
