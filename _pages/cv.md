@@ -19,14 +19,6 @@ See resume and CV below, or click links to download PDFs.
 </object>
 
 
-<a href="https://jbollenbacher.github.io/files/CV.pdf">CV</a>
-
-<object data="https://jbollenbacher.github.io/files/CV.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://jbollenbacher.github.io/files/CV.pdf">
-    </embed>
-</object>
-
-
 <a href="https://jbollenbacher.github.io/files/dissertation.pdf">Dissertation</a>
 
 <object data="https://jbollenbacher.github.io/files/dissertation.pdf" type="application/pdf" width="700px" height="700px">
