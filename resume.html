@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">Loading...</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav class="container">
+            <a href="index.html" class="logo" id="nav-logo">Loading...</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="resume.html" class="active">Resume</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="container">
+            <div class="page-content">
+                <h1 class="page-title">Resume & CV</h1>
+                <div class="resume-content">
+                    <p class="resume-intro" id="resume-intro">Loading...</p>
+                    
+                    <div class="resume-downloads" id="resume-downloads">
+                        <!-- Resume download cards will be loaded here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p id="footer-text">Loading...</p>
+        </div>
+    </footer>
+
+    <script src="config.js"></script>
+    <script>
+        // Function to convert markdown links to HTML
+        function convertMarkdownLinks(text) {
+            // Replace [text](url) with <a href="url" target="_blank">text</a>
+            return text.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+        }
+
+        // Load content for resume page
+        document.addEventListener('DOMContentLoaded', function() {
+            // Page title and basic info
+            document.getElementById('page-title').textContent = `Resume - ${siteConfig.heroName}`;
+            document.getElementById('nav-logo').textContent = siteConfig.navName;
+            document.getElementById('footer-text').textContent = `© 2025 ${siteConfig.copyrightName}. All rights reserved.`;
+            
+            // Resume section with markdown link support
+            document.getElementById('resume-intro').innerHTML = convertMarkdownLinks(siteConfig.resume.intro);
+            const resumeDownloads = document.getElementById('resume-downloads');
+            resumeDownloads.innerHTML = siteConfig.resume.files.map(file => `
+                <div class="resume-card">
+                    <h3>${file.title}</h3>
+                    <p>${convertMarkdownLinks(file.description)}</p>
+                    <a href="${file.filename}" class="download-btn" download>
+                        <span>📄</span> Download ${file.title}
+                    </a>
+                </div>
+            `).join('');
+        });
+    </script>
+</body>
+</html>
