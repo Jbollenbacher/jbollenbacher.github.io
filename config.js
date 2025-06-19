@@ -99,8 +99,8 @@ const siteConfig = {
     
     // Contact & Social Links
     contact: {
-        intro: "I'm always interested in discussing mission-driven projects, academic collaborations, or consulting opportunities that align with my values of public service and ethical AI development.",
-        interests: "Areas of Interest: Public Health, Environmental Protection, AI Ethics, Government Innovation, Academic Research"
+        intro: "I'm always happy to discuss mission-driven projects, academic collaborations, or questions about AI development and AI model psychology.",
+        interests: "Areas of Interest: Public Health, Environmental Protection & Climate Action, Applied AI for Science and Public Good, AI Alignment & model welfare."
     },
 
     // Resume Section
