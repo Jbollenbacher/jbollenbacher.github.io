@@ -99,7 +99,7 @@ const siteConfig = {
     
     // Contact & Social Links
     contact: {
-        intro: "I'm always happy to discuss mission-driven projects, academic collaborations, or questions about AI development and AI model psychology.",
+        intro: "I'm always happy to discuss mission-driven projects, academic collaborations, or questions about AI development and AI phenomenology.",
         interests: "Areas of Interest: Public Health, Environmental Protection & Climate Action, Applied AI for Science and Public Good, AI Alignment & model welfare."
     },
 
