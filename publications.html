@@ -68,10 +68,8 @@
                 `;
             }).join('');
             
-            // Update Google Scholar link
-            const scholarLink = siteConfig.social.find(s => s.name === 'Google Scholar');
-            if (scholarLink) {
-                document.getElementById('google-scholar-link').href = scholarLink.url;
+            document.getElementById('google-scholar-link').href = siteConfig.googleScholar.url;
+
             }
         });
     </script>
