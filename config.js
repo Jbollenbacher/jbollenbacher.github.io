@@ -70,6 +70,10 @@ const siteConfig = {
     ],
     
     // Publications
+    googleScholar: {
+        name: "Google Scholar",
+        url: "https://scholar.google.com/citations?user=uiUoGrgAAAAJ&hl=en"
+    },
     publications: [
         {
             title: "Effects of Antivaccine Tweets on COVID-19 Vaccinations, Cases, and Deaths",
@@ -122,11 +126,6 @@ const siteConfig = {
     
     // Social Media Links
     social: [
-        {
-            name: "Google Scholar",
-            url: "https://scholar.google.com/citations?user=uiUoGrgAAAAJ&hl=en",
-            icon: "📚" // Can be emoji or image file path like "google-scholar.png"
-        },
         {
             name: "LinkedIn",
             url: "https://linkedin.com/in/jmbollenbacher",
