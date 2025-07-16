@@ -99,13 +99,13 @@ const siteConfig = {
     
     // Contact & Social Links
     contact: {
-        intro: "I'm always happy to discuss mission-driven projects, academic collaborations, or questions about AI development and AI phenomenology.",
+        intro: "I'm always happy to discuss mission-driven consulting opportunities, academic collaborations, or questions about AI development and AI phenomenology.",
         interests: ""
     },
 
     // Resume Section
     resume: {
-        intro: "Download my resume and CV for detailed information about my experience, publications, and qualifications.",
+        intro: "",
         files: [
             {
                 title: "Skills Resume",
