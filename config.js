@@ -100,7 +100,7 @@ const siteConfig = {
     // Contact & Social Links
     contact: {
         intro: "I'm always happy to discuss mission-driven projects, academic collaborations, or questions about AI development and AI phenomenology.",
-        interests: "Areas of Interest: Public Health, Environmental Protection & Climate Action, Applied AI for Science and Public Good, AI Alignment & model welfare."
+        interests: ""
     },
 
     // Resume Section
@@ -109,12 +109,12 @@ const siteConfig = {
         files: [
             {
                 title: "Skills Resume",
-                description: "Focused on consulting experience, technical skills, and recent projects. Ideal for recruiters and potential clients.",
+                description: "1 page resume, with skills list",
                 filename: "resources/Resume.pdf"
             },
             {
                 title: "Full CV",
-                description: "Comprehensive academic curriculum vitae including all publications and most projects.",
+                description: "Comprehensive academic curriculum vitae",
                 filename: "resources/CV.pdf"
             }
         ]
